@@ -1,8 +1,8 @@
 {
-    "Crypto Terms. Part 1" : "BLUMEXPLORER",
-    "Bitcoin Rainbow Chart?" : "SOBLUM",
-    "Token Burning: How & Why?" : "ONFIRE",
-    "How to Memecoin?" : "MEMEBLUM",
+	"Crypto Terms. Part 1" : "BLUMEXPLORER",
+	"Bitcoin Rainbow Chart?" : "SOBLUM",
+	"Token Burning: How & Why?" : "ONFIRE",
+	"How to Memecoin?" : "MEMEBLUM",
 	"Pre-Market Trading?" : "WOWBLUM",
 	"Doxxing? What's that?" : "NODOXXING",
 	"$2.5M+ DOGS Airdrop" : "HAPPYDOGS",
