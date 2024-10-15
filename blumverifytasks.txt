@@ -58,5 +58,9 @@
     "38f6dd88-57bd-4b42-8712-286a06dac0a0": {
         "title": "How to Analyze Crypto?",
         "verify": "VALUE"
+    },
+    "25928ae7-c3c2-40ba-bb78-975ed68e4a5a": {
+        "title": "How to trade Perps?",
+        "verify": "CRYPTOFAN"
     }
 }
