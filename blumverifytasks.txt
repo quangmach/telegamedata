@@ -1,0 +1,17 @@
+{
+    "Crypto Terms. Part 1": "ANSWER",
+    "Bitcoin Rainbow Chart?": "ANSWER",
+    "Token Burning: How & Why?": "ANSWER",
+    "How to Memecoin?": "ANSWER",
+    "Pre-Market Trading?": "ANSWER",
+    "Doxxing? What's that?": "ANSWER",
+    "$2.5M+ DOGS Airdrop": "ANSWER",
+    "Liquidity Pools Guide": "ANSWER",
+    "What Are AMMs?": "ANSWER",
+    "Say No to Rug Pull!": "ANSWER",
+    "What are Telegram Mini Apps?": "ANSWER",
+    "Navigating Crypto": "ANSWER",
+    "Secure your Crypto!": "ANSWER",
+    "Forks Explained": "ANSWER",
+    "How to Analyze Crypto?": "ANSWER"
+}
