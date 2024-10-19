@@ -1,4 +1,6 @@
 {
+	"Sharding Explained" : "BLUMTASTIC",
+	"DeFi Explained" : "BLUMFORCE",
 	"Crypto Terms. Part 1" : "BLUMEXPLORER",
 	"Bitcoin Rainbow Chart?" : "SOBLUM",
 	"Token Burning: How & Why?" : "ONFIRE",
