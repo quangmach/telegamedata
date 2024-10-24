@@ -1,5 +1,6 @@
 {
-	"Sharding Explained" : "BLUMTASTIC",
+	"Crypto Slang. Part 1" : "BLUMSTORM",
+        "Sharding Explained" : "BLUMTASTIC",
 	"How To Find Altcoins?" : "ULTRABLUM",
 	"DeFi Explained" : "BLUMFORCE",
 	"Crypto Terms. Part 1" : "BLUMEXPLORER",
