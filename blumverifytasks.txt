@@ -1,4 +1,6 @@
 {
+        "DeFi Risks: Key Insights" : "BLUMHELPS",
+        "Pumptober Special" : "PUMPIT",
 	"Crypto Slang. Part 1" : "BLUMSTORM",
         "What is On-chain Analysis?" : "BLUMEXTRA",
         "Sharding Explained" : "BLUMTASTIC",
