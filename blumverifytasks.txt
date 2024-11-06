@@ -1,7 +1,10 @@
 {
         "DeFi Risks: Key Insights" : "BLUMHELPS",
+        "Choosing a Crypto Exchange" : "CRYPTOZONE",
+        "Node Sales in Crypto" : "BLUMIFY",
         "Pumptober Special" : "PUMPIT",
 	"Crypto Slang. Part 1" : "BLUMSTORM",
+        "Crypto Slang. Part 2" : "FOMOOO",
         "What is On-chain Analysis?" : "BLUMEXTRA",
         "Sharding Explained" : "BLUMTASTIC",
 	"How To Find Altcoins?" : "ULTRABLUM",
