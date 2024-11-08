@@ -1,11 +1,11 @@
 {
-	"#1 Learn Blockchain in 3 mins": "",
-	"#2 Crypto vs Blockchain": "",
-	"#3 Hot vs Cold Wallet": "",
-	"#4 What is Airdrop?": "",
-	"#5 Coin vs Token": "",
-	"#6 What is TON?": "",
-	"#7 News affecting BTC price": "",
-	"#8 On-chain vs Off-chain": "",
+	"#1 Learn Blockchain in 3 mins": "BLOCKCHAIN",
+	"#2 Crypto vs Blockchain": "CRYPTOCURRENCY",
+	"#3 Hot vs Cold Wallet": "WALLET",
+	"#4 What is Airdrop?": "AIRDROP",
+	"#5 Coin vs Token": "TOKENS",
+	"#6 What is TON?": "TON",
+	"#7 News affecting BTC price": "BTCTOTHEMOON",
+	"#8 On-chain vs Off-chain": "TRANSACTION",
 	"#9 CEX vs DEX": "OKXEED"
 }
