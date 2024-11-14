@@ -7,5 +7,8 @@
 	"#6 What is TON?": "TON",
 	"#7 News affecting BTC price": "BTCTOTHEMOON",
 	"#8 On-chain vs Off-chain": "TRANSACTION",
-	"#9 CEX vs DEX": "OKXEED"
+	"#9 CEX vs DEX": "OKXEED",
+        "#10 Bullish And Bearish: "BULLRUN",
+        "#11 Pre-market Explained: "BRESEED",
+        "#12 What is NFT?: "GETGEMS"
 }
