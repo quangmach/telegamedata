@@ -1,5 +1,8 @@
 {
         "DeFi Risks: Key Insights" : "BLUMHELPS",
+        "What is Slippage?" : "CRYPTOBUZZ",
+        "Understanding Gas Fees" : "CRYPTOGAS",
+        "What's Crypto DEX?" : "DEXXX",
         "Choosing a Crypto Exchange" : "CRYPTOZONE",
         "Node Sales in Crypto" : "BLUMIFY",
         "Pumptober Special" : "PUMPIT",
