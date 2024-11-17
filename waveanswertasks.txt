@@ -1,3 +1,4 @@
 {
-  "Daily Squad Drops": "0of2xx"
+  "Daily Squad Drops": "05z9ti",
+  "How to create a meme token": "WEWEPUMP"
 }
