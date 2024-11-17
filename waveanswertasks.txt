@@ -1,0 +1,3 @@
+{
+  "Daily Squad Drops": "0of2xx"
+}
