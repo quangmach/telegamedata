@@ -1,5 +1,10 @@
 {
         "DeFi Risks: Key Insights" : "BLUMHELPS",
+        "DEX History" : "GODEX",
+        "Regulation: Yay or Nay?" : "BLUMSSS",
+        "Crypto Slang. Part 3" : "BOOBLUM",
+        "Smart Contracts 101" : "SMARTBLUM",
+        "What's Next for DeFi?" : "BLUMNOW",
         "What is Slippage?" : "CRYPTOBUZZ",
         "Understanding Gas Fees" : "CRYPTOGAS",
         "What's Crypto DEX?" : "DEXXX",
