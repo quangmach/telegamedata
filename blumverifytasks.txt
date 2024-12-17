@@ -39,5 +39,10 @@
 	"Secure your Crypto!" : "BEST PROJECT EVER",
 	"Forks Explained" : "GO GET",
 	"How to Analyze Crypto?" : "VALUE",
-	"How to trade Perps?" : "CRYPTOFAN"
+	"How to trade Perps?" : "CRYPTOFAN",
+        "Dec 16 News" : "BITCOIN",
+        "Dec 13 News" : "BITCOINJESUS",
+        "Dec 12 News" : "RIPPLE",
+        "Dec 10 News" : "ELSALVADOR",
+        "Dec 6 Crypto News" : "HUNDRED"
 }
