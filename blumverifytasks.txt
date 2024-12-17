@@ -1,6 +1,10 @@
 {
         "DeFi Risks: Key Insights" : "BLUMHELPS",
+        "Crypto in Everyday Life" : "BLUMANCE",
+        "Blum CMO @ Blockchain Life" : "BLUMISLIFE",
         "DEX History" : "GODEX",
+        "DEX History #3" : "DECEMY",
+        "Memepad Tutorial" : "MEMEPAD",
         "Regulation: Yay or Nay?" : "BLUMSSS",
         "Crypto Slang. Part 4" : "LAMBOBLUM",
         "DEX Evolution" : "BLUMSPARK",
